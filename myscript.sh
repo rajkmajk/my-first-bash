@@ -20,3 +20,11 @@
 #     echo "Your name is Mihailo"
 # fi
 
+#IF-ELSE
+# if [ "$NAME" == "Mihailo" ]
+# then
+#     echo "Your name is Mihailo"
+# else 
+#     echo "Your name is not Mihailo"
+# fi
+
