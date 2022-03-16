@@ -14,3 +14,9 @@
 # read -p "Enter your name: " NAME
 # echo "Hello $NAME, nice to meet you!"
 
+#SIMPLE IF STATEMENT
+# if [ "$NAME" == "Mihailo" ]
+# then
+#     echo "Your name is Mihailo"
+# fi
+
