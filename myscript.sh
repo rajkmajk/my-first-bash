@@ -10,4 +10,7 @@
 # echo "My name is $NAME"
 # echo "My name is ${NAME}"
 
+# USER INPUT
+# read -p "Enter your name: " NAME
+# echo "Hello $NAME, nice to meet you!"
 
