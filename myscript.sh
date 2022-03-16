@@ -28,3 +28,14 @@
 #     echo "Your name is not Mihailo"
 # fi
 
+#ELSE-IF (elif)
+# if [ "$NAME" == "Mihailo" ]
+# then
+#     echo "Your name is Mihailo"
+# elif [ "$NAME" == "Pera" ]
+# then 
+#     echo "Your name is Pera"
+# else 
+#     echo "Your name is not Mihailo or Pera"
+# fi
+
