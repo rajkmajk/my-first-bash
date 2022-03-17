@@ -92,3 +92,11 @@
 #     echo "Please enter y/yes or n/no"
 #     ;;
 #     esac
+
+# SIMPLE FOR LOOP
+# NAMES="Pera Laza Zika Mika"
+# for NAME in $NAMES
+#     do
+#         echo "Hello $NAME"
+# done
+
