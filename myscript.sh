@@ -117,3 +117,9 @@
 #     ((LINE++))
 # done < "./new-1.txt"
 
+# FUNCTION
+#  function saySomething() {
+#    echo "Guten Tag."
+#  }
+#  saySomething
+
